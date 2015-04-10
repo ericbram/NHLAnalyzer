@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHLScrape", "NHLScrape\NHLScrape.csproj", "{705FABCD-3B11-4F68-8351-8D741CC3DC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHLAnalyzer", "NHLAnalyzer\NHLAnalyzer.csproj", "{9948CD4D-42B8-4A6C-AC5D-9DA414FB4B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705FABCD-3B11-4F68-8351-8D741CC3DC58}.Debug|x86.ActiveCfg = Debug|x86
+		{705FABCD-3B11-4F68-8351-8D741CC3DC58}.Debug|x86.Build.0 = Debug|x86
+		{705FABCD-3B11-4F68-8351-8D741CC3DC58}.Release|x86.ActiveCfg = Release|x86
+		{705FABCD-3B11-4F68-8351-8D741CC3DC58}.Release|x86.Build.0 = Release|x86
+		{9948CD4D-42B8-4A6C-AC5D-9DA414FB4B29}.Debug|x86.ActiveCfg = Debug|x86
+		{9948CD4D-42B8-4A6C-AC5D-9DA414FB4B29}.Debug|x86.Build.0 = Debug|x86
+		{9948CD4D-42B8-4A6C-AC5D-9DA414FB4B29}.Release|x86.ActiveCfg = Release|x86
+		{9948CD4D-42B8-4A6C-AC5D-9DA414FB4B29}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
